@@ -1,10 +1,14 @@
+@import "./Variables.scss";
+@import "./Fonts.scss";
+@import "./Animation.scss";
+
 * {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
 }
 
 html body {
-    min-height: 100%;
+  min-height: 100%;
 }

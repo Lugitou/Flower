@@ -1,29 +1,15 @@
-# Template vue 3 + eslint Airbnb
+# 3D Flower
 
-## Project setup
+## Introduction
 
-```
-npm install
-```
+This project is meant to be my personal portfolio.
 
-### Compiles and hot-reloads for development
+## Technologies
 
-```
-npm run serve
-```
+-   Vue 3
+-   SCSS
+-   Three.js
 
-### Compiles and minifies for production
+## Credits
 
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-   Design inspired from Adem Ortega (https://www.pinterest.fr/pin/843087992755761171/)
